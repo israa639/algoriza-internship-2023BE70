@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "yBMHtaD3WKo/L4DRDx/3LXOkAb4qFzUvWhBNDNOJ8DU=",
+  "Source": "algoriza-internship-2023BE70",
+  "BasePath": "_content/algoriza-internship-2023BE70",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "algoriza-internship-2023BE70\\wwwroot",
+      "Source": "algoriza-internship-2023BE70",
+      "ContentRoot": "C:\\Users\\hp\\source\\algoriza-internship-2023BE70\\wwwroot\\",
+      "BasePath": "_content/algoriza-internship-2023BE70",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\source\\algoriza-internship-2023BE70\\wwwroot\\image\\assDay1.PNG",
+      "SourceId": "algoriza-internship-2023BE70",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\source\\algoriza-internship-2023BE70\\wwwroot\\",
+      "BasePath": "_content/algoriza-internship-2023BE70",
+      "RelativePath": "image/assDay1.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\assDay1.PNG"
+    }
+  ]
+}
